@@ -33,16 +33,3 @@ En este ejemplo, el operador de propagación se utiliza para combinar dos objeto
 ### Conclusión
 
 El operador de propagación es una característica útil en JavaScript que te permite combinar fácilmente objetos y arreglos en uno solo. ¡Prueba su uso en tus proyectos y verás lo útil que puede ser!
-
-## Ejemplo
-
-Aquí está el ejemplo que proporcionaste, pero con un poco más de explicación:
-
-    const object1 = { nombre: "Sergie Code" };
-    const object2 = { profesion: 'programador' };
-    
-    const combined = { ...object1, ...object2 };
-    
-    console.log(combined); // { nombre: "Sergie Code", profesion: 'programador' }
-
-En este ejemplo, primero se crean dos objetos: `object1` y `object2`. Luego, el operador de propagación se utiliza para combinar estos dos objetos en un solo objeto llamado `combined`. Finalmente, el objeto `combined` se imprime en la consola mediante `console.log()`.
