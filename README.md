@@ -1,4 +1,4 @@
-![enter image description here](https://raw.githubusercontent.com/sergiecode/spread-operator-objects-tutorial/master/spread-operator-objects-tutorial.png)
+![Tutorial sobre el Spread operator en javascript](https://raw.githubusercontent.com/sergiecode/spread-operator-objects-tutorial/master/spread-operator-objects-tutorial.png)
 
 ## Tutorial del operador de propagación en JavaScript
 
